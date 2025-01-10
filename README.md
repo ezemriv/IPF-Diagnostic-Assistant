@@ -1,3 +1,6 @@
+<img src="https://img.shields.io/badge/Python-white?logo=python&logoColor=3776AB" style="height: 25px; width: auto;">  <img src="images/logos--gradio-icon.png" alt="Gradio logo" style="height: 15px; background-color: #D3D3D3; padding: 4px; border-radius: 5px;">  <img src="https://img.shields.io/badge/Gradio-white?" style="height: 25px; width: auto;">  <img src="https://img.shields.io/badge/FastAI-white?logo=python&logoColor=3776AB" style="height: 25px; width: auto;">  <img src="https://img.shields.io/badge/Pydicom-white?logo=python&logoColor=3776AB" style="height: 25px; width: auto;">
+
+
 # 🚀 Diagnostic Assistant for Idiopathic Pulmonary Fibrosis
 
 This is a **project demo** developed in **48 hours** for a **BOEHRINGER INGELHEIM Hackathon**.
