@@ -1,0 +1,1 @@
+rsync -avu --progress --exclude='.git/' --exclude='.gitattributes' --delete ./ ../reto-1-mas-alla-de-la-mirada-humana/
